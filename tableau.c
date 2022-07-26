@@ -18,7 +18,7 @@ int main()
         {
             printf("donner Note_Math[%d]:\n",i);
             scanf("%f",& Note_Math[i]);  
-            //Som_Math=Som_Math + Note_Math[i];
+            Som_Math=Som_Math + Note_Math[i];
         }
  
 
